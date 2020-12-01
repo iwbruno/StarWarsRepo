@@ -1,2 +1,2 @@
 # Star Wars Repository
-Este repositório serve para exomplo de aprendizado de git e github.
+Este repositório serve para exemplo de aprendizado de git e github.
