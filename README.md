@@ -11,4 +11,3 @@ Este repositório serve para exemplo de aprendizado de git e github.
 ***
 
 ![Star Wars Local](./star_wars.jpg)
-
